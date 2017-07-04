@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LesaraTestTask</string>
+    <string name="item_product_price">%.2f€</string>
+</resources>
